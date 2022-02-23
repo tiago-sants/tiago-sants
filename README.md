@@ -29,3 +29,5 @@ Apaixonado por tecnologia!
 Cursando Engenharia de Software
 
 Em processo de aprendizagem...
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
