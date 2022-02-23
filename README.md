@@ -12,7 +12,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/trouxioso)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/cartom007)
 
-![Tiago GitHub stats](https://github-readme-stats.vercel.app/api?username=tiago-sants&show_icons=true&theme=dark)
+![Tiago GitHub stats](https://github-readme-stats.vercel.app/api?username=tiago-sants&show_icons=true&theme=merko)
 
 ## Tecnologias que uso no meu dia
 
